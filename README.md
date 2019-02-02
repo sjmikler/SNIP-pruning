@@ -1,3 +1,3 @@
 Report form ICLR Reproducibility Challenge
-
-Reproduction of SNIP, one-shot pruning method with .pdf report and source code
+Reproduced paper is describing SNIP: one-shot pruning method (https://openreview.net/forum?id=B1VZqjAcYX)
+There is .pdf file with report and source code of reproduction available.
