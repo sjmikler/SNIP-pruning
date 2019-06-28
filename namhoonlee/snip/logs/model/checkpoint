@@ -1,0 +1,6 @@
+model_checkpoint_path: "itr-9999"
+all_model_checkpoint_paths: "itr-5999"
+all_model_checkpoint_paths: "itr-6999"
+all_model_checkpoint_paths: "itr-7999"
+all_model_checkpoint_paths: "itr-8999"
+all_model_checkpoint_paths: "itr-9999"
